@@ -1,0 +1,90 @@
+body {
+    background: linear-gradient(red, blue);
+}
+
+table {
+    background-color: white;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.Titre {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+}
+
+.synopsis {
+    text-align: left;
+}
+
+.AfficheFilm {
+    width: 795px;
+    
+}
+
+.photo {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+}
+
+.Distribution {
+    background-color: red;
+    color: white;
+    size: 30px;
+}
+
+#ChrisEvans {
+    background-image: url(../images/Chris_Evans.png);
+
+}
+
+#ChrisHemsworth {
+    background-image: url(../images/Chris_Hemsworth.png);
+}
+
+#JeremyRenner {
+    background-image: url(../images/Jeremy_Renner.png);
+}
+
+#MarkRuffalo {
+    background-image: url(../images/Mark_Ruffalo.png);
+}
+
+#ScarlettJohansson {
+    background-image: url(../images/Scarlett_Johansson.png);
+}
+
+#TomHiddleston {
+    background-image: url(../images/Tom_Hiddleston.png);
+}
+
+#RobertDowneyJr {
+    background-image: url(../images/Robert_Downey_Jr..png);
+}
+
+.acteur {
+    font-size: larger;
+}
+
+.personnage {
+    font-style: italic;
+    color: blue;
+}
+
+.infos {
+    list-style: none;
+    font-size: large;
+}
+
+.Autres {
+    list-style: none;
+    font-size: 30px;
+    font-weight: bold;
+}
